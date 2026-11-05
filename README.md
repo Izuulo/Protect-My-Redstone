@@ -61,7 +61,7 @@ Each component type can be individually toggled on or off:
 ## Building from Source
 
 ```bash
-git clone https://github.com/finneritter/protect-my-redstone.git
+git clone https://github.com/Izuulo/protect-my-redstone.git
 cd redstoneguard
 ./gradlew build
 ```
